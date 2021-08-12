@@ -17,6 +17,7 @@ def help(update, context):
     /start -> Welcome message
     /help -> This message
     /stock FB-> The current price of FB
+    *You can add "-USD" for cryptocrrencies(ex:BTC-USD)
     
     """)
 
